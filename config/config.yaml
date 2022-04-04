@@ -1,0 +1,9 @@
+Port: 8080
+JWT_SECRET: "S3CR3T"
+Database:
+  Port: 3306
+  Driver: "mysql"
+  Name: "todolist"
+  Address: "todolist.cdtrgmjwgfbk.us-east-1.rds.amazonaws.com"
+  Username: "admin"
+  Password: "admin123"
